@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "update eslint config (add plugin)",
+  "packageName": "@whyareyouu/eslint",
+  "email": "bionixxxd5@gmail.com",
+  "dependentChangeType": "patch"
+}
