@@ -1,0 +1,20 @@
+{
+  "name": "@whyareyouu/prettier",
+  "entries": [
+    {
+      "date": "Tue, 16 Jul 2024 15:03:24 GMT",
+      "version": "1.1.1",
+      "tag": "@whyareyouu/prettier_v1.1.1",
+      "comments": {
+        "none": [
+          {
+            "author": "bionixxxd5@gmail.com",
+            "package": "@whyareyouu/prettier",
+            "commit": "6c861d60acc88d093a2da22346a567188a4e6575",
+            "comment": ""
+          }
+        ]
+      }
+    }
+  ]
+}
