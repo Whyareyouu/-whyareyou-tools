@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "fixed eslint config",
+  "packageName": "@whyareyouu/eslint",
+  "email": "bionixxxd5@gmail.com",
+  "dependentChangeType": "patch"
+}
