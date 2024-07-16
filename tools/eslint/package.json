@@ -1,7 +1,7 @@
 {
   "name": "@whyareyouu/eslint",
   "description": "eslint configs",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "keywords": [
     "eslint",
     "react",
