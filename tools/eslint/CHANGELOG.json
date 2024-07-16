@@ -2,6 +2,21 @@
   "name": "@whyareyouu/eslint",
   "entries": [
     {
+      "date": "Tue, 16 Jul 2024 16:39:58 GMT",
+      "version": "1.3.0",
+      "tag": "@whyareyouu/eslint_v1.3.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "bionixxxd5@gmail.com",
+            "package": "@whyareyouu/eslint",
+            "commit": "f7c26b180bf0d90717b273cd8bc5ddf370342d9c",
+            "comment": "update eslint config (add plugin)"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 16 Jul 2024 15:39:49 GMT",
       "version": "1.2.1",
       "tag": "@whyareyouu/eslint_v1.2.1",
