@@ -2,6 +2,21 @@
   "name": "@whyareyouu/prettier",
   "entries": [
     {
+      "date": "Tue, 16 Jul 2024 17:08:45 GMT",
+      "version": "1.2.0",
+      "tag": "@whyareyouu/prettier_v1.2.0",
+      "comments": {
+        "none": [
+          {
+            "author": "bionixxxd5@gmail.com",
+            "package": "@whyareyouu/prettier",
+            "commit": "298e8dc6f2b115f338f6cb6e22eb926aa56241c7",
+            "comment": ""
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 16 Jul 2024 16:39:58 GMT",
       "version": "1.2.0",
       "tag": "@whyareyouu/prettier_v1.2.0",
