@@ -23,6 +23,10 @@
   "workspaces": [
     "tools/*"
   ],
-  "scripts": {},
-  "devDependencies": {}
+  "scripts": {
+    "release": "beachball publish --yes"
+  },
+  "devDependencies": {
+    "beachball": "^2.43.1"
+  }
 }

@@ -60,7 +60,7 @@ module.exports = {
     },
     overrides: [
         {
-            files: ['*.ts', '*.tsx'],
+            files: ['*.ts', '*.tsx', '*.js', '*.jsx'],
             parser: '@typescript-eslint/parser',
             parserOptions: {
                 project: './tsconfig.json'
@@ -78,6 +78,7 @@ module.exports = {
                 'import/no-extraneous-dependencies': 'off',
                 '@typescript-eslint/no-explicit-any': 'off',
                 '@typescript-eslint/no-unsafe-return': 'off',
+                '@typescript-eslint/no-unused-vars':'warn',
                 '@typescript-eslint/ban-ts-comment': 'off',
                 '@typescript-eslint/no-shadow': 'off',
                 '@typescript-eslint/restrict-template-expressions': [
