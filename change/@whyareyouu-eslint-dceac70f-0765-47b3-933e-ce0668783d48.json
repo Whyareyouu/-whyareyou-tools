@@ -1,6 +1,6 @@
 {
   "type": "minor",
-  "comment": "",
+  "comment": "Change files",
   "packageName": "@whyareyouu/eslint",
   "email": "bionixxxd5@gmail.com",
   "dependentChangeType": "patch"
