@@ -2,6 +2,21 @@
   "name": "@whyareyouu/eslint",
   "entries": [
     {
+      "date": "Mon, 14 Oct 2024 22:07:46 GMT",
+      "version": "1.7.0",
+      "tag": "@whyareyouu/eslint_v1.7.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "bionixxxd5@gmail.com",
+            "package": "@whyareyouu/eslint",
+            "commit": "39652649ce8954a3dc90eca692cc1c16ae84e0d2",
+            "comment": "Change files"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 14 Oct 2024 21:53:30 GMT",
       "version": "1.5.0",
       "tag": "@whyareyouu/eslint_v1.5.0",
