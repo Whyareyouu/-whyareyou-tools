@@ -1,8 +1,16 @@
 # Change Log - @whyareyouu/eslint
 
-This log was last generated on Tue, 16 Jul 2024 17:08:45 GMT and should not be manually modified.
+This log was last generated on Mon, 14 Oct 2024 19:36:52 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.8.0
+
+Mon, 14 Oct 2024 19:36:52 GMT
+
+### Minor changes
+
+- Change files (bionixxxd5@gmail.com)
 
 ## 1.4.0
 
