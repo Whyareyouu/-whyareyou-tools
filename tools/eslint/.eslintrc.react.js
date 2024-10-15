@@ -82,6 +82,7 @@ module.exports = {
                 '@typescript-eslint/ban-ts-comment': 'off',
                 '@typescript-eslint/no-shadow': 'off',
                 '@typescript-eslint/no-floating-promises': 'off',
+                '@typescript-eslint/no-unnecessary-type-assertion': 'off',
                 '@typescript-eslint/restrict-template-expressions': [
                     'warn',
                     { allowBoolean: true, allowNullish: true }
