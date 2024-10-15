@@ -1,7 +1,7 @@
 {
   "name": "@whyareyouu/eslint",
   "description": "eslint configs",
-  "version": "1.7.0",
+  "version": "1.9.0",
   "keywords": [
     "eslint",
     "react",
@@ -50,6 +50,7 @@
     "eslint-plugin-simple-import-sort": "^12.1.1"
   },
   "devDependencies": {
-    "@whyareyouu/prettier": "*"
+    "@whyareyouu/prettier": "*",
+    "eslint-plugin-unused-imports": "^4.1.4"
   }
 }
